@@ -7,6 +7,7 @@ We propose a new online handwriting trajectory modeling by simulating the beta-e
 [1] H. Boubaker, A. Chaabouni, N. Tagougui, M. Kherallah, A.M. Alimi, Handwriting
 and hand drawing velocity modeling by superposing beta impulses and continuous training component, Internat. J. Compute. Sci. Issues (IJCSI) 10 (5)
 (2013) 57–63.
+
 [2] ] H. Boubaker, A. Elbaati, N. Tagougui, H. ElAbed, M. Kherallah, A.M. Alimi, Online Arabic databases and applications, in: Guide to OCR for Arabic Scripts,
 Springer, 2012, pp. 541–557.
 ### Citation: 
