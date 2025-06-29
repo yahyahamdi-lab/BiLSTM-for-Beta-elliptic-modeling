@@ -14,20 +14,12 @@ Springer, 2012, pp. 541–557.
 ### Citation: 
 @article{HAMDI2022101215,
 title = {Deep learned BLSTM for online handwriting modeling simulating the Beta-Elliptic approach},
-
 journal = {Engineering Science and Technology, an International Journal},
-
 volume = {35},
-
 pages = {101215},
-
 year = {2022},
-
 issn = {2215-0986},
-
 doi = {https://doi.org/10.1016/j.jestch.2022.101215},
-
 url = {https://www.sciencedirect.com/science/article/pii/S2215098622001240},
-
 author = {Yahia Hamdi and Houcine Boubaker and Besma Rabhi and Abdulrahman M. Qahtani and Fahd S. Alharithi and Omar Almutiry and Habib Dhahri and Adel M. Alimi},
 }
