@@ -12,6 +12,7 @@ and hand drawing velocity modeling by superposing beta impulses and continuous t
 Springer, 2012, pp. 541–557.
 
 ### Citation: 
+
 @article{HAMDI2022101215,
 title = {Deep learned BLSTM for online handwriting modeling simulating the Beta-Elliptic approach},
 journal = {Engineering Science and Technology, an International Journal},
