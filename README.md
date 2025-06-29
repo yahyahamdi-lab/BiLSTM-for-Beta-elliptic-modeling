@@ -2,8 +2,19 @@
 We propose a new online handwriting trajectory modeling by simulating the beta-elliptical [1] approach to limit the calculation time and to have an end-to-end description system meeting the needs of mobile device users. The developed model deploys a multi-stage architecture-based deep learned recurrent neural network (RNN) with bidirectional Long Short-Term Memory (BLSTM) that simulates the process of extracting the dynamic and geometric parameters composing the beta-elliptical vector. This architecture encompasses the pre-processing, segmentation, and approximation steps of the trajectory in its two velocity and geometric profiles and is traced by only neural computation sequences.
 ![image](https://github.com/user-attachments/assets/e34a5c09-94a3-495d-9d30-2ac9c4c4c9ff)
 - For Evaluation, we have used ADAB dataset [2] for online Arabic handwriting words.
+### Requirements:
+- tensorflow>=2.4.0
+- numpy>=1.19.0
+- matplotlib>=3.3.0 
+- scikit-learn>=0.24.0
+#### Installation Instructions
+- Create and activate a virtual environment (recommended):
 
-### References
+python -m venv bilstm_env
+source bilstm_env/bin/activate  # Linux/Mac
+.\bilstm_env\Scripts\activate   # Windows
+### References:
+
 [1] H. Boubaker, A. Chaabouni, N. Tagougui, M. Kherallah, A.M. Alimi, Handwriting
 and hand drawing velocity modeling by superposing beta impulses and continuous training component, Internat. J. Compute. Sci. Issues (IJCSI) 10 (5)
 (2013) 57–63.
