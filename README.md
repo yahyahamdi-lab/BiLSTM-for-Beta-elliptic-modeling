@@ -10,8 +10,8 @@ We propose a new online handwriting trajectory modeling by simulating the beta-e
 #### Installation Instructions
 - Create and activate a virtual environment (recommended):
 
-python -m venv bilstm_env
-source bilstm_env/bin/activate  # Linux/Mac
+-- python -m venv bilstm_env
+-- source bilstm_env/bin/activate  # Linux/Mac
 .\bilstm_env\Scripts\activate   # Windows
 ### References:
 
